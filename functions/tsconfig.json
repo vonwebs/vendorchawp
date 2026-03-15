@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "outDir": "lib",
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "sourceMap": true,
+        "strict": true,
+        "target": "es2017",
+        "lib": [
+            "es2017"
+        ],
+        "skipLibCheck": true,
+        "esModuleInterop": true
+    },
+    "compileOnSave": true,
+    "include": [
+        "src"
+    ]
+}

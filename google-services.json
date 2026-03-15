@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "894137478030",
+    "project_id": "snakk-679e1",
+    "storage_bucket": "snakk-679e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894137478030:android:07cadc6a3b996371be92df",
+        "android_client_info": {
+          "package_name": "com.gabbyhimself.chawpvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894137478030-80vha3bhno9o7m9q359odjiglstcasgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc46OIhDnoZORLPO_GSRfcBRq3Z4ls_b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894137478030-80vha3bhno9o7m9q359odjiglstcasgn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894137478030-v26kemh5l8efjn2riddrmlttactskpc3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gabbyhimself.chawp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
